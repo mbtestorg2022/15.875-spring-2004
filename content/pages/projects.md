@@ -12,23 +12,210 @@ Project {{< anchor "sched" >}}{{< /anchor >}}Schedule
 
 15.875 is centered around a project that teams complete in steps during the semester, which is outlined the table below. Each project is sponsored by a real-life company or organization, who will act as the students' client throughout the semester. More information on the progress reports that teams give in the weekly "breakout sessions" can be found on the [lecture notes]({{< baseurl >}}/pages/lecture-notes) page.
 
-| WEEK # | TOPICS | PROJECTS |
-| --- | --- | --- |
-| 1 | Introduction | Indicate project preferences from list of topics |
-| 2 | Guidelines for Kickoff Meeting - Breakout Session | Project topics assigned  {{< br >}}  {{< br >}}Teams have "Kickoff Meetings" with Clients |
-| 3 | Definition of Concern and Momentum Policies - Breakout Group Presentation 1 | Begin the Causal Looping Process  {{< br >}}  {{< br >}}Second Client Meetings: Rough Hypotheses |
-| 4 | Rough Dynamic Hypotheses - Breakout Group Presentation 2 | &nbsp; |
-| 5 | Dynamic Hypotheses - Breakout Group Presentation 3 | &nbsp; |
-| 6 | Mini-presentations - Breakout Group Presentation 4 | &nbsp; |
-| 7 | Partial Model of First Hypothesis - Breakout Group Presentation 5 | &nbsp; |
-| 8 | Model and Analysis of First Hypothesis - Breakout Group Presentation 6 | &nbsp; |
-| 9 | Partial Model of First Hypothesis - Breakout Group Presentation 7  {{< br >}}  {{< br >}}Molecules Out | &nbsp; |
-| 10 | Model and Analysis of First Hypothesis - Breakout Group Presentation 8 | &nbsp; |
-| 11 | Partial Model of First Hypothesis - Breakout Group Presentation 9 | &nbsp; |
-| 12 | Model and Analysis of First Hypothesis - Breakout Group Presentation 10 | &nbsp; |
-| 13 | Partial Model of First Hypothesis - Breakout Group Presentation 11 | &nbsp; |
-| 14 | Insights Presentation - Breakout Group Presentation 12 | &nbsp; |
-| 15 | Final Presentations and Models | Final presentations and models due 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+PROJECTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+Indicate project preferences from list of topics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Guidelines for Kickoff Meeting - Breakout Session
+{{< tdclose >}}
+{{< tdopen >}}
+Project topics assigned  
+  
+Teams have "Kickoff Meetings" with Clients
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Definition of Concern and Momentum Policies - Breakout Group Presentation 1
+{{< tdclose >}}
+{{< tdopen >}}
+Begin the Causal Looping Process  
+  
+Second Client Meetings: Rough Hypotheses
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Rough Dynamic Hypotheses - Breakout Group Presentation 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamic Hypotheses - Breakout Group Presentation 3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Mini-presentations - Breakout Group Presentation 4
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Partial Model of First Hypothesis - Breakout Group Presentation 5
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Model and Analysis of First Hypothesis - Breakout Group Presentation 6
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Partial Model of First Hypothesis - Breakout Group Presentation 7  
+  
+Molecules Out
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Model and Analysis of First Hypothesis - Breakout Group Presentation 8
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Partial Model of First Hypothesis - Breakout Group Presentation 9
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Model and Analysis of First Hypothesis - Breakout Group Presentation 10
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Partial Model of First Hypothesis - Breakout Group Presentation 11
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Insights Presentation - Breakout Group Presentation 12
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Final Presentations and Models
+{{< tdclose >}}
+{{< tdopen >}}
+Final presentations and models due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Student {{< anchor "pres" >}}{{< /anchor >}}Final Presentations
 ---------------------------------------------------------------
